@@ -140,7 +140,7 @@ vendor_modify_jars := framework services telephony-common wifi-service org.cyano
 # The default value is Nexus-6P_Unofficial.
 # You should configure the property according to your device and your ID with replace the "Nexus-6P_Unofficial".
 override_property += \
-    ro.flyme.romer=Aymende7 \
+    ro.flyme.romer=Unofficial \
     ro.product.model_romer=wt88047_Unofficial \
     ro.product.device=wt88047
 
